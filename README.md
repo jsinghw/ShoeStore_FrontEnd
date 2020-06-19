@@ -1,3 +1,11 @@
+# ShoeStore_FrontEnd
+
+Link to Backend: https://github.com/jsinghw/ShoeStore-Django-ReST-Framework
+
+
+First project learning how to use Django ReST Framework and connecting it to a front end.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,4 +74,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# ShoeStore_FrontEnd
